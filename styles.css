@@ -1,0 +1,24 @@
+h1{
+    font-family:"Montserrat" ;
+    font-weight: 900;
+    font-size:3rem;
+    line-height: 1.7;
+    color: white;
+    padding-top: 2rem;
+}
+
+html, body{
+    max-width: 100%;
+    overflow-x:hidden;
+    font-family: "Montserrat";
+    background-color: aquamarine;
+    text-align: center;
+    
+}
+h4{
+    font-family:"Montserrat" ;
+    font-weight: 200;
+    font-size:1rem;
+    color: white;
+    padding: 1rem;
+}
